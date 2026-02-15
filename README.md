@@ -6,6 +6,8 @@
 
 ## For Claude: Session Briefing
 
+Use US english spelling
+
 This repository contains all materials for the NERD 2026 grant application. To resume work, read this README first, then `draft/NERD_2026_Draft_v1.md`, then `wishlist.md`.
 
 ## Repository Structure
@@ -52,6 +54,8 @@ Novo Nordisk Foundation NERD (New Exploratory Research and Discovery) Programme 
 ### Assessment Criteria
 
 Scientific quality, creativity, novelty, ambition, feasibility, dedication (time commitment)
+
+Make sure the application reflects that pursuing this research questions requires a prolonged effort in multiple very different areas and that only allowing time to complete and combining them will allow groundbreaking results.
 
 ---
 

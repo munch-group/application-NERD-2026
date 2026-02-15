@@ -1,6 +1,6 @@
 # Pilot Result Wishlist (updated 13 Feb 2026)
 
-*Prioritised by impact on the application × feasibility before 19 Feb deadline.*
+*Prioritized by impact on the application × feasibility before 19 Feb deadline.*
 
 ## Already in the draft (confirmed results)
 - ✅ MAGMA enrichments: neuron+spermatid p=0.030, XCI escape p=0.027, gametologs p=0.026
