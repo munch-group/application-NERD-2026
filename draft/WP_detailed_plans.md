@@ -10,6 +10,10 @@ Comparative genomics, Chromatin structure (HiC), GWAS, Access to protected cohor
 
 For the postdocs and phd students to reap the fruits of the projects they lead. They cannot run in sequence. They must run side-by-side with the projects they depend on. The postdoc expertise in each area must be present in the group at the same time.
 
+# New plan
+
+I have put square brackets around tasks that require results or expertise from other work packages. Double brackets: two other projects.
+
 1. GWAS
    1. Sex-stratified GWAS and XWAS in iPSYCH.
    2. Stratify by Y haplogroup identified from diagnostic SNPs in iPSYCH panel.
@@ -17,8 +21,8 @@ For the postdocs and phd students to reap the fruits of the projects they lead. 
    4. Compute ASD genetic correlation between I and R haplogroup males.
    5. [Associate Y haplotype specific GWAS hits with genes at A/B compartments only exposed in either X or Y spermatids.]
    6. [Estimate the population-averaged polygenic risk score explained by hitchhiking-elevated frequencies of risk variants.]
-   7. Repeat study on UK-biobank using fully sequenced Y chromosomes.
-   8. [Develop method to predict polygenic risk score from autosomal and X variants on the background of known Y chromosome repeat profile.]
+   7. [[Repeat analysis on UK-biobank exploiting fully sequenced X and Y chromosomes.]]
+   8. [[Develop method to predict polygenic risk score from autosomal and X variants on the background of known Y chromosome repeat profile.]]
 2. X chromosome drive
    1. Selection scans for driver genes using RELATE/SINGER
    2. Replicate scans in baboons
@@ -31,8 +35,14 @@ For the postdocs and phd students to reap the fruits of the projects they lead. 
    2. Bayesian inference of A/B borders
    3. Identification of affected TADs at A/B borders
    4. Identification of superloop structures spanning compartments on X
+   5. [Effect of Y haplogroup on X and autosomal chromatin structure in the brain (scATAC-seq https://doi.org/10.1038/s41467-024-44742-0)]
 4. Y chromosome repeat content and prediction
+   1. Ampliconic gene counts and repeat content profiling of UK-biobank chromosomes.
+   2. [Characterization of positive and negative selection on ampliconic gene counts and repeat content.]
+   3. [Develop deep convolutional neural network for prediction of TAD chromatin status at A/B borders from Y chromosome profiles]
 
+
+# The following plan is not longer used:
 
 ## WP1.1: X Chromosome GWAS in Clinical Cohorts
 
