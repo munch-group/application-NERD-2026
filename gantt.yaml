@@ -1,0 +1,90 @@
+# ── Work packages ─────────────────────────────────────────
+work_packages:
+  WP1:
+    label: "WP1: Y-stratified GWAS incl. X chromosome"
+    start: 2027
+    end: 2030
+    color: "#2563EB"    # blue
+  WP2:
+    label: "WP2: X-linked meiotic drive"
+    start: 2027.5
+    end: 2029.5
+    color: "#DC2626"    # red
+  WP3:
+    label: "WP3: 3D chromatin architecture"
+    start: 2028.5
+    end: 2031.5
+    color: "#059669"    # green
+  WP4:
+    label: "WP4: Y repeat content & CNN prediction"
+    start: 2029.5
+    end: 2033
+    color: "#7C3AED"    # purple
+
+# ── Personnel ─────────────────────────────────────────────
+personnel:
+  - label: "PhD1 (WP1, WP3)"
+    lead: WP1
+    start: 2027
+    end: 2030
+  - label: "PD1 (WP2)"
+    lead: WP2
+    start: 2027.5
+    end: 2029.5
+  - label: "PhD2 (WP1, WP3)"
+    lead: WP3
+    start: 2028.5
+    end: 2031.5
+  - label: "PD2 (WP1, WP4)"
+    lead: WP4
+    start: 2029.5
+    end: 2031.5
+  - label: "PD3 (WP4)"
+    lead: WP1
+    start: 2031
+    end: 2033
+
+# ── Cross-WP exchanges (vertical connectors) ─────────────
+# side: left or right (label placement)
+exchanges:
+  - x: 2028.3
+    from: WP1
+    to: WP2
+    label: "GWAS hits →\n← Selection scans"
+    side: left
+
+  - x: 2028.9
+    from: WP1
+    to: WP3
+    label: "Y haplogroups →\nbrain scATAC"
+    side: left
+
+  - x: 2029.3
+    from: WP3
+    to: WP1
+    label: "A/B borders →\nhaplogroup GWAS"
+    side: right
+
+  - x: 2029.8
+    from: WP2
+    to: WP1
+    label: "Hitchhiking →\nPRS inflation"
+    side: left
+
+  - x: 2030.2
+    from: WP2
+    to: WP4
+    label: "Genealogical\nmethods"
+    side: right
+
+  - x: 2030.6
+    from: WP3
+    to: WP4
+    label: "A/B border\ntargets → CNN"
+    side: left
+
+  - x: 2031.3
+    from: WP4
+    to: WP1
+    label: "Y profiles →\nconditional PRS"
+    side: left

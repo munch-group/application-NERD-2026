@@ -1,0 +1,16 @@
+[workspace]
+authors = ["Kasper Munch <kaspermunch@birc.au.dk>"]
+channels = ["conda-forge", "munch-group"]
+name = "application-nerd-2026"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+seaborn = ">=0.13.2,<0.14"
+nodejs = ">=25.6.0,<25.7"
+ipykernel = ">=7.2.0,<8"
+nbconvert = ">=7.17.0,<8"
+jupyter = ">=1.1.1,<2"
+quarto = ">=1.8.27,<2"
