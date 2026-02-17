@@ -1,5 +1,20 @@
 
 
+
+Make sure the reader understands that an even sex ratio is a game theoretic equilibrium (Fisher's principle) because individuals that produce more offspring of the rarer sex have more grandchildren. Even sex ratio is an evolutionary stable strategy representing a fitness optimum. If an male carry a carry a driver variant distorting X/Y transmission, any existing variant or new mutation contrinuting to a more even transmission will be strongly favored by positive selection - even if mildly deleterious. 
+
+ a skewed offspring ratio, will  fitness optimum. Inviduals carrying 
+
+, which in turn put strong positive selection on variants 
+
+ evolutionary is the equilibrium (with even sex mortality etc) (Fishers principle) - maye frame as game theory equilibrium 
+
+
+
+**Convergent evidence from primate evolution**. The tubulin-modifying enzyme TTLL11 has been independently inactivated in both humans and gorillas, but remains functional in chimpanzees. TTLL11 polyglutamylates tubulin and is required for directed sperm motility; knockout mice produce sperm that swim in circles. One hypothesis is that TTLL11 inactivation represents a host defense: if an X-linked driver co-opted TTLL11-dependent microtubule transport to bias its own transmission, then organisms that destroyed the transport machinery would be freed from drive. The convergent loss in two independent great ape lineages — both with low sperm competition — is consistent with this scenario. 
+
+**A bridging example.** The X-linked RNA-binding gene RBMX2 illustrates how the two hypotheses converge on a single locus. Among all sex-linked genes, RBMX2 is the only one whose expression peaks specifically at the pachytene spermatocyte stage — the point of MSCI — in every primate species examined, making it either the first gene reactivated after silencing or the only gene that escapes MSCI entirely [Anonymized Reference 7]. RBMX2 encodes a splicing-fidelity factor that stabilizes long exons by suppressing cryptic splice-site activation, giving it broad downstream effects on transcript integrity in the germline. Its Y-linked paralog, RBMY2, is strongly downregulated at meiotic entry and does not escape MSCI, so only the X-linked copy is active during the critical pachytene window when sex chromosomes are otherwise silenced. An autosomal retrogene, RBMXL2, is upregulated during meiosis and appears to compensate for RBMX loss, mirroring the autosomal suppression arm of the conflict cycle.
+
 Since the grant is meant for projects that require continuous concentrated work on an unusual idea, I think it make sense to make sure it is clear that applies to this project. The project pulls from very different areas: ASD, GWAS, Neurobiology, Chromatin, HiC, Population genomics, modelling. Testing the hypothesis requires progress expertise in all these areas. I could do all the projects in sequence over the next 10 years, but it would be very hard to recruit postdocs, since their individual projects would not be able to yield the high impact papers that good postdocs expect. The only solution is to do it all simultaneously, so that the project led by each postdoc can can receive input from parallel projects and so that all participants can be coauthors on the high impact papers pulling from multiple work packages.
 
 I also need to argue that this project will be difficult to get funded through more conventional funding programs. In the fields of  molecular evolution, there is a strange irrational reluctance to accept meiotic drive as an important mechanism in human or primate molecular evolution. The way I see it, it is a bit like the Higgs boson in physics: Given the accumulated knowledge about the mechnaisms of selection, and if everything everybody believes to be true about molecular evolution, then it follows as a logic consequence that sex-chromosome meiotic drive is an active force in all species with sex chromosomes. This project is driven by the same kind of trust in logic that physicists build giant accelerators.
