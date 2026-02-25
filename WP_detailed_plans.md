@@ -10,6 +10,9 @@ Comparative genomics, Chromatin structure (HiC), GWAS, Access to protected cohor
 
 For the postdocs and phd students to reap the fruits of the projects they lead. They cannot run in sequence. They must run side-by-side with the projects they depend on. The postdoc expertise in each area must be present in the group at the same time.
 
+
+<!-- **Pilot evidence from a cross-primate comparison.** Using Hi-C data from macaque spermatogenesis, we mapped A/B compartment boundaries and identified macaque genes at these borders whose one-to-one human homologs could be tested for enrichment. Despite the indirectness of this cross-species mapping, the signal is clear: hitchhiking genomic neighborhoods on the X significantly overlap compartment boundaries at every spermatogenesis stage — spermatogonia (p = 0.017), pachytene spermatocytes (p = 0.006), round spermatids (p = 0.005), and spermatozoa (p = 0.028). Differentially expressed genes between X- and Y-bearing spermatids are also enriched at these boundaries (p = 0.003). That the enrichment survives a primate-to-human comparison suggests these boundary positions are conserved and functionally important. -->
+
 # New plan
 
 I have put square brackets around tasks that require results or expertise from other work packages. Double brackets: two other projects.
